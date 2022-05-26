@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Bearded Theme Arc Reversed",
+  "terminal.integrated.fontFamily": "Consolas",
+  "terminal.integrated.fontSize": 16,
+  "editor.fontSize": 16
+}
